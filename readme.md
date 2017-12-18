@@ -22,13 +22,3 @@ The company needs the output in the following format:
 "January", "YYYY-MM-DD", "YYYY-MM-DD", "YYYY-MM-DD" 
 
 "February", "YYYY-MM-DD", "YYYY-MM-DD", "YYYY-MM-DD" 
-
-.........
-
-Your task is to create an application, which implements this code flow and can output the pay dates for any given year. 
-
-This application will output a to a file, which name and year for which is calculated are given from the cli.
-
-Please approach this as you would a normal work project and ensure that all code is completed to a standard that you are happy with; ensuring that includes unit testing, could be reused to support the output in different languages etc.
- 
-Submit the code or send us the Github link to the repository.
